@@ -1,0 +1,9 @@
+{
+  "custonNotion": {
+    "command": "python",
+    "args": [
+      "./mcp_server_notion.py"
+    ],
+    "transport": "stdio"
+  }
+}
