@@ -1,6 +1,6 @@
 ### Notion_MCP 
 
-> 현재 프로젝트는 notion에서 제공하는 mcp로 되어있습니다
+> 현재 프로젝트는 notion 특정 db 접근 mcp server로 되어있습니다
 
 
 ### notion api mcp server
@@ -35,7 +35,7 @@ NOTION_API_KEY= # 노션 api 링크
 
 
 
-#### notion 정식 mcp 사용법
+#### 공식 notion mcp 사용법
 - https://developers.notion.com/docs/mcp
 > npx -y @notionhq/notion-mcp-server
 
