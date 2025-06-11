@@ -1,6 +1,6 @@
 ### Notion_MCP 
 
-> 현재 프로젝트는 notion 특정 db 접근 mcp server로 되어있습니다
+> 현재 프로젝트는 커스텀으로 만든  notion 특정 db 접근 mcp server로 되어있습니다
 
 
 ### notion api mcp server
